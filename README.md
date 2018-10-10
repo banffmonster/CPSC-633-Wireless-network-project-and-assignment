@@ -1,2 +1,3 @@
-# lei-wang
-computer science master student in UCalgary
+# CPSC-633
+wireless network project and assignment
+
