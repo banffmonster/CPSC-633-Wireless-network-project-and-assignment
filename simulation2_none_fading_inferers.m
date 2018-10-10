@@ -1,3 +1,7 @@
+%this is the simulation of none-fading interferers, the only difference is for this simulation we don't use a fading function on 
+%every interfering nodes, we only using fading function on the sending node, here the fading function is Rayleigh fading which is 
+%exprnd(1)
+
 cd = pi;
 I = 0;
 D = 2;
