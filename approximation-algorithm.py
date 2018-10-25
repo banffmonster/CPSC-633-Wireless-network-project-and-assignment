@@ -1,3 +1,5 @@
+## this is the implemention A(1-e)-approximation algorithm in wireless network base placement problem
+
 from pulp import *
 from math import *
 from numpy import *
