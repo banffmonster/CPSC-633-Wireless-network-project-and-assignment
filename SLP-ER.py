@@ -1,3 +1,5 @@
+# this is the implemention of SLP-ER algorithm in wireless network rate allocation problem
+
 from pulp import *
 from math import *
 import numpy as np
